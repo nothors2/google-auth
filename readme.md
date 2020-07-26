@@ -17,9 +17,6 @@ exports.google = google;
 ### passport 참조
 [http://www.passportjs.org/docs/google/](http://www.passportjs.org/docs/google/)
 
-### passport 참조
-[http://www.passportjs.org/docs/google/](http://www.passportjs.org/docs/google/)
-
 
 ### 참조 유툽
 [https://www.youtube.com/watch?v=o9e3ex-axzA&t=777s](https://www.youtube.com/watch?v=o9e3ex-axzA&t=777s)
